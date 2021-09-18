@@ -24,15 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   ambient music project - 
   composed with Google Magenta - 
   produced with Apple GarageBand
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amethon
 github_username:  yumpy
 
 # Build settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-minimal
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
