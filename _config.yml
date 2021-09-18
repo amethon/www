@@ -53,3 +53,8 @@ github_username:  yumpy
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  skin: dark
+  google_analytics: G-X17BPMCDKJ
+
