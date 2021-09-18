@@ -1,10 +1,10 @@
-## amethon
+## albums
 
-### Ambient Solitude
+### ambient solitude
 
 [Listen](https://soundcloud.com/amethon-com/sets/ambient-solitude)
 
-### Ambient Solitude II
+### ambient solitude II
 
 [Listen](https://soundcloud.com/amethon-com/sets/ambient-solitude-ii)
 
