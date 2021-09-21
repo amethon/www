@@ -1,10 +1,27 @@
+$base-font-size:   24px !default;
+$base-font-weight: 500 !default;
+$spacing-unit:     30px !default;
+
 
 body {
-  background-image: url("cover.jpeg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-blend-mode: color-dodge;
-  background-attachment: fixed;
-  background-position: center;
+  // background-image: url("main.56e8a21d3a50b66a.jpeg");
+  // background-repeat: space;
+  // background-size: cover;
+  // background-blend-mode: saturation;
+  // background-attachment: fixed;
+  // background-position: center;
   background-color: #161212;
  }
+
+.page-content {
+  background-image: url("background.png");
+  background-size: cover;
+  background-position: center;
+  // opacity: 0.6;
+}
+
+.site-title {
+  font-weight: 600;
+}
+
+

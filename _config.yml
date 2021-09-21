@@ -55,6 +55,11 @@ github_username:  yumpy
 #   - vendor/ruby/
 
 minima:
-  skin: dark
+  skin: launch
   google_analytics: G-X17BPMCDKJ
+  social_links:
+    twitter: amethon
+    github: amethon
+  date_format: "%Y-%m-%d"
 
+show_excerpts: true
