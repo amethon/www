@@ -22,8 +22,8 @@ title: amethon
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   ambient music project - 
-  composed with Google Magenta - 
-  produced with Apple GarageBand
+  composed with the assiatance of Google Magenta - 
+  produced with Apple Logic Pro X
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amethon
