@@ -9,6 +9,9 @@ excerpt: a mind-expanding journey into the dark side of the self.
 
 <div style="max-width:100%;"><div style="position:relative;padding-bottom:calc(56.25% + 52px);height: 0;"><iframe style="position:absolute;top:0;left:0;" width="100%" height="100%" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1616840317&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe></div></div>
 
+<h2>BandLab</h2>
+<iframe width="560" height="345" src="https://www.bandlab.com/embed/collection/?id=bcb53306-6ea7-ec11-a99b-0004ffd34479" frameborder="0" allowfullscreen></iframe>
+
 <h2>about</h2>
 <p>
 Amethon’s third album is a mind-expanding journey into the dark side of the self. Pulsing with cosmic ambience, spectral abyss is the sound of the void, a sonic abyss that draws you in and doesn’t let go. Flowing in and out of consciousness, the album envelops you in its darkness, inviting you to explore its depths. Described by amethon as “a personal journey into the unknown,” the songs on spectral abyss take the listener on a journey into the depths of the self, exploring the darkness and light within.
