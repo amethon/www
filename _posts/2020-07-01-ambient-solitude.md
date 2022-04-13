@@ -23,7 +23,6 @@ The pace slows with 'Solitude 20' as the intensity of your activity lowers, and 
 The sounds of life flow in and out of 'Serene Awakening', which then closes the album.
 <p>
 Now close your eyes, deep breath in, and relax. You don’t need to do anything. No one is watching. The world is quiet, and you’re alone.
-<p>
 
 
 <h2>album.link</h2>
