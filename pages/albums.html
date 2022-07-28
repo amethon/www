@@ -1,0 +1,16 @@
+---
+layout: default
+title: albums
+nav: /
+---
+<h1>Released Albums</h1>
+
+<ul>
+  {% for album in site.albums %}
+    <div>
+      <h2><a href="{{ album.url  | relative_url}}">{{ album.title }}</a></h2>
+      {{ album.excerpt }}
+    </div>
+  {% endfor %}
+</ul>
+

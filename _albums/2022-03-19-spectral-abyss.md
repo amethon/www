@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "spectral abyss"
 categories: album
 excerpt: a mind-expanding journey into the dark side of the self.

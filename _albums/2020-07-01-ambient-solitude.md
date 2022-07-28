@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "ambient solitude"
 categories: album
 excerpt: A Zero Beat journey into solitude. Take a long, hot bath and turn the lights out.

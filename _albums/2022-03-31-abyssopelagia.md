@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "abyssopelagia"
 categories: album
 excerpt: a descent into the abyssal zone.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: "ambient solitude II"
 categories: album
 excerpt: A darker and deeper journey into solidute.

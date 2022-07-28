@@ -21,9 +21,7 @@
 title: amethon
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ambient music project - 
-  composed with the assistance of Google Magenta - 
-  produced with Apple Logic Pro X
+  ambient music project
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amethon
@@ -63,3 +61,13 @@ minima:
   date_format: "%Y-%m-%d"
 
 show_excerpts: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      
+collections:
+  albums:
+    output: true
