@@ -29,8 +29,9 @@ github_username:  amethon
 
 # Build settings
 #theme: jekyll-theme-minimal
-# plugins:
+plugins:
 #  - jekyll-feed
+ - jekyll-twitter-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
