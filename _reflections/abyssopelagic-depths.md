@@ -2,7 +2,7 @@
 layout: reflection
 title: "abyssopelagic depths"
 categories: reflections
-excerpt: a meditative exploration of human isolation
+excerpt: Explore the depths of the human soul
 ---
 
 <pre>
@@ -23,6 +23,34 @@ Allow yourself to be still and present in the abyss, and to allow the music to g
 
 As you come to the end of your meditation, take a deep breath and slowly bring yourself back to the present moment. When you are ready, open your eyes and continue your day with a sense of peace and clarity.
 
+<h2>Awakening</h2>
+
+I have returned from the depths\
+Where the abyss held sway\
+And the only sound was the ebb and flow of the ocean
+
+But now, I am awash in light\
+My eyes are opened to the world\
+And I am filled with joy
+
+For in the abyss, I have found myself\
+And in the light, I have found my way
+
+And so I sing, with heart and soul\
+For the beauty and mystery of the world\
+And the joy of awakenedness.
+
+<h2>Tranquility</h2>
+
+In the beginning, there was only chaos. The oceans roiled and churned, with no land in sight and no end to the void. But then, the Creator spoke, and the waters receded, revealing the depths of the abyss.
+
+And the Creator said, "Let there be light," and the abyss was filled with a radiance that shone from the depths of the ocean. And the light revealed the wonders of the abyss - the schools of fish, the coral reefs, and the mysteries of the deep.
+
+But the abyss was also a realm of solitude, where the only sound was the ebb and flow of the ocean. And so, the Creator spoke again, and from the depths of the abyss, a melody arose. It was a soothing, meditative melody that filled the void with peace and tranquility.
+
+And the Creator said, "Let the music be a guide for those who venture into the abyss. Let it be a means of exploration and a source of solace. For in the abyss, there is beauty and mystery, but also danger and solitude. And only through the music can one find their way."
+
+And so, the music of the abyss played on, guiding those who ventured into the depths and offering them a glimpse into the mysteries of the ocean. For in the abyss, one could find not only solitude, but also connection and understanding.
 
 <h2>Reflection</h2>
 
