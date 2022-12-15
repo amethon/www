@@ -5,19 +5,6 @@ categories: album
 excerpt: a meditative exploration of human isolation
 ---
 
-Close your eyes, take a deep breath, and let yourself relax. As you exhale, imagine yourself descending into the abyss. Allow yourself to let go of any thoughts or worries that may be weighing on your mind.
-
-As you continue to descend, allow yourself to become more and more present in the moment. Notice the sensations in your body, the sound of your breath, and the feeling of the abyss around you.
-
-As you reach the depths of the abyss, allow yourself to explore your surroundings. Notice the darkness and the emptiness, but also the potential and possibility that lies within.
-
-With every breath, allow yourself to sink deeper into the depths of the abyss. As you do, imagine yourself becoming more and more connected to your own humanity, to the vastness and complexity of the human experience.
-
-Allow yourself to be still and present in the abyss, and to allow the music to guide you on your journey. Notice any emotions or thoughts that arise, and allow yourself to simply observe them without judgment.
-
-As you come to the end of your meditation, take a deep breath and slowly bring yourself back to the present moment. When you are ready, open your eyes and continue your day with a sense of peace and clarity.
-
-<h2>Album</h2>
 <p>
 
 With "abyssopelagic depths," amethon seeks to bring listeners on a meditative journey into the depths of human isolation. The album is a meandering exploration of the void, sometimes melancholic and sometimes hopeful, that offers a new way of understanding our shared humanity.
@@ -43,33 +30,6 @@ The descent to 'fathom 3000'  is a more contemplative exploration of the abyss. 
 <p>
 The album ends with 'fathom 3200', a more introspective and contemplative exploration of the abyss. The music is slower and more reflective, giving the listener a chance to explore their own soul.
 
-<h2>Reflection</h2>
-<pre>
-In the depths of the abyss, we find
-A solitude that tests our minds
-A journey fraught with fear and doubt
-But one that leads us to a new route
-
-Through the music, we hear the call
-Of a world beyond, where we may fall
-Into the depths of our own being
-And find a sense of peace, a new meaning
-
-In the abyss, we face our fears
-And come to terms with our own tears
-As we confront the pain and strife
-And find a sense of meaning in our life
-
-Slow and steady, we move along
-Our hearts and minds, in harmony and song
-Towards the light that shines ahead
-A beacon guiding us, through the endless dead
-
-In the abyss, we find our way
-To a place of solace, where we may lay
-Our burdens down, and rest at last
-In the embrace of the endless vast.
-</pre>
 
 <h2>album.link</h2>
 

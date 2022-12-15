@@ -72,3 +72,5 @@ defaults:
 collections:
   albums:
     output: true
+  reflections:
+    output: true

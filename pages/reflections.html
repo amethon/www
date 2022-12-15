@@ -1,0 +1,30 @@
+---
+layout: default
+title: reflections
+nav: /
+---
+
+<h1>Reflections</h1>
+
+
+<!-- <ul>
+  {% for collection in site.collections %}
+    <div>
+      {{ collection.label }}
+      {% for item  in collection.docs %}
+      <div>
+        - {{ item.date }}
+      </div>
+    {% endfor %}
+    </div>
+  {% endfor %}
+</ul> -->
+
+<ul>
+  {% for reflection in site.reflections %}
+    <div>
+      <h2><a href="{{ reflection.url  | relative_url}}">{{ reflection.title }}</a></h2>
+      {{ reflection.excerpt }}
+    </div>
+  {% endfor %}
+</ul> 
