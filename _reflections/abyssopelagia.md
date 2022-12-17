@@ -137,6 +137,7 @@ I am filled with a sense of joy and wonder,\
 Ready to embrace the world with open eyes\
 And a full and grateful heart.
 
+
 <h2>The Dark Recess</h2>
 
 As a psychoanalyst, I have had the opportunity to listen to Amethon's fourth album and explore the deeper meanings and themes that it conveys. In my analysis, I have found that the album is a journey into the unconscious mind, a journey into the deep, dark recesses of the human psyche.
