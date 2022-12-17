@@ -125,7 +125,7 @@ Jules Verne
 
 Dear Journal,
 
-Today was a day that will forever be etched in my memory. As we embarked on our expedition, Dr. Hernandez and I couldn't have fathomed the discovery we would make. As we neared the sunken shipwreck, a silence that was palpable enveloped the area. The rusting metal of the ship stood in stark contrast to the crystal clear waters that surrounded us, a reminder of the tragedy that had befallen this once majestic vessel.
+Today was a day that will forever be etched in my memory. As we embarked on our expedition, Dr. Hernandez and I couldn't have fathomed the discovery we would make, a sunken shipwreck. As we neared the wreck, a silence that was palpable enveloped the area. The rusting metal of the ship stood in stark contrast to the crystal clear waters that surrounded us, a reminder of the tragedy that had befallen this once majestic vessel.
 
 As we navigated through the twisted corridors and compartments of the ship, we couldn't help but wonder about the fate of the crew. Had they gone down with the ship or had they managed to escape before it sank? The thought sent shivers down my spine and I couldn't help but ponder the stories and secrets these walls held, hidden away in the abyss of the ocean.
 
@@ -263,7 +263,7 @@ Today marks the end of our journey to the abyssopelagia. Dr. Hernandez and I hav
 
 The journey to the abyssopelagia has been an incredible experience that I will never forget. Dr. Hernandez and I set out with the goal of exploring the depths of the ocean, and we were not disappointed. The ocean is a vast and mysterious place, full of wonders that we could never have imagined.
 
-As we descended, I was struck by the eerie beauty of the deep sea. The darkness was almost complete, but the faint glow of bioluminescent creatures illuminated our path. Strange and exotic creatures swam past us, some I had never seen before.
+As we descended, I was struck by the ghostly beauty of the deep sea. The darkness was almost complete, but the faint glow of bioluminescent creatures illuminated our path. Strange and exotic creatures swam past us, some I had never seen before.
 
 But it was not just the sights that captivated me. The sense of isolation and disconnection from the world above was both daunting and exhilarating. It was as if we had entered another world entirely, one that was completely separate from the one we knew.
 
@@ -275,7 +275,7 @@ But the journey didn't end there. It has left a lasting impact on me, and I am e
 
 As I come to the conclusion of this journey, I find myself captivated by the alluring and intelligent Dr. Hernandez. She is a renowned scientist and a truly compassionate individual, and I have grown to adore her wit, her intellect, and her beauty.
 
-In recent days, we have been spending more time together and exchanging tender and cordial words and actions as we work to strengthen our bond. We have also sought out more opportunities to converse, allowing us to become more intimate with each other. Though we are still at the beginning of our relationship, I already find myself yearning for her company when we are apart. I am hopeful that this attraction will continue to blossom and mature into something more profound, and I am eager to see where this journey takes us.
+In recent days, we have been spending more time together and exchanging tender and cordial words and actions as we work to strengthen our friendship. We have also sought out more opportunities to converse, allowing us to become more intimate with each other. Though we are still at the beginning of our acquaintance, I already find myself yearning for her company when we are apart. I am hopeful that this attraction will continue to blossom and mature into something more profound, and I am eager to see where this journey takes us.
 
 Until next time,
 
