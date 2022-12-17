@@ -5,6 +5,15 @@ categories: album
 excerpt: a descent into the abyssal zone.
 ---
 
+Imagine a world of darkness and mystery, a world that stretches for miles beneath the surface of the ocean. This is the world of the abyssopelagia, a region of the deep sea that is rich with exotic and often bizarre life.
+
+As you descend into the abyss, you are enveloped in a world of shadows and silence. The water is cold and dark, but it is also clear and inviting. You see the shadows of creatures moving in the distance, and you hear the eerie cries of the denizens of the deep.
+
+You continue to descend, deeper and deeper into the abyss. The pressure begins to build, and you feel a sense of awe and wonder as you realize just how deep you have gone. Finally, you reach the bottom of the ocean, the abyssopelagia. It is a dark and lonely place, but it is also full of life and mystery.
+
+As you explore this strange and exotic world, you are struck by the beauty and complexity of the deep sea creatures. You see schools of fish swimming by, and you marvel at the wonders of the sunken wrecks. And as you stand at the bottom of the ocean, you begin to feel a sense of peace and connection to this mysterious and magical place.
+
+<h2>Abyssopelagia</h2>
 Amethon's fourth album is a haunting and mesmerizing journey into the deep, dark depths of the ocean, where the abyssal zone stretches for miles beneath the surface, teeming with exotic and often bizarre life. The music on this album is a tapestry of complex musical patterns, shimmering soundscapes, and poetic emotions that weave together to take the listener on a journey through the abyss and back.
 
 The album begins with the slowly building and reverberating introduction, "descendo," which serves as a gateway into the mysterious world of the abyss. From there, the songs segue into one another in unexpected ways, building and unfolding in a way that further explores the strange and exotic life that thrives in the depths of the ocean. The ethereal and exotic track "abysso" delves into the quiet beauty of deep sea creatures, while the soaring and epic "ascendo" takes us on a journey through the long, lonely nights in the abyss, culminating in the triumphant return to the light.
