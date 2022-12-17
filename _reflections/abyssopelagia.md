@@ -2,7 +2,7 @@
 layout: reflection
 title: "abyssopelagia"
 categories: reflections
-excerpt: Explore the depths of the human soul
+excerpt: a descent into the abyssal zone
 ---
 
 <pre>
@@ -95,9 +95,7 @@ A dweller in the depths of the ocean,\
 And I am content to live my life\
 In this dark and mysterious place.
 
-<h2>The Letter</h2>
-
-Dear Times,
+<h2>The Haunting Beauty of Abyssopelagia</h2>
 
 I am writing to you today to share the incredible experience of my recent voyage of discovery to the depths of the ocean, to the mysterious region known as the abyssopelagia.
 
