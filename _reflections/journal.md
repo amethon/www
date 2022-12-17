@@ -7,12 +7,13 @@ excerpt: The Wonders of the Abyssopelagia - A Voyage of Discovery
 
 Jules Verne was a French author and pioneer of science fiction who was known for his imaginative and visionary works. He had always been fascinated by the mysteries of the deep sea, and he had long dreamed of exploring the depths of the ocean and discovering its secrets.
 
-In 1872, Verne was approached by a group of scientists and adventurers who were planning a deep sea diving expedition to the abyssopelagia, the mysterious region of the ocean below about 1000 meters in depth. They invited Verne to join them as an observer and chronicler of the journey, and he eagerly accepted the opportunity.
+In 1872, Verne was approached by a group of scientists and adventurers who were planning a deep sea diving expedition to the abyssopelagia, the mysterious region of the ocean beyond 1000 fathoms depth. They invited Verne to join them as an observer and chronicler of the journey, and he eagerly accepted the opportunity.
 
 Verne spent months preparing for the voyage, researching the deep sea and its inhabitants, and gathering the necessary equipment and supplies. When the day of the expedition arrived, he was excited but also a little nervous, as he knew that the journey would be both physically and mentally demanding.
 
-On returning from his expedition in September 1873, he wrote a letter to "Le Naturaliste":
+On returning from expedition in September 1873, he wrote a letter to "Le Naturaliste":
 
+<hr>
 <b>September 12, 1873</b>
 
 <b>The Haunting Beauty of Abyssopelagia</b> 
