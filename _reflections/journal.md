@@ -93,7 +93,7 @@ Jules Verne
 
 Dear Journal,
 
-Today was a momentous day, as I finally had the opportunity to board the research vessel that will take us on our journey of discovery to the abyssopelagia. As I stepped aboard the ship, I couldn't help but feel a sense of awe and excitement at the prospect of setting sail on this great adventure.
+Today was a momentous day, as I finally had the opportunity to board the research vessel L'Exploration that will take us on our journey of discovery to the abyssopelagia. As I stepped aboard the ship, I couldn't help but feel a sense of awe and excitement at the prospect of setting sail on this great adventure.
 
 The ship is a marvel of engineering, with a sturdy hull and powerful engines that will propel us through the depths of the ocean. I have spent the day exploring every inch of the vessel, marveling at the intricate mechanisms and the state-of-the-art equipment that will allow us to explore the unknown.
 
@@ -143,6 +143,7 @@ Jules Verne
 
 <hr>
 <b>July 29, 1873</b>
+
 Dear Journal,
 
 Today marked the second day of our voyage, and I have had the chance to settle into life aboard the research vessel L'Exploration. As I explore the ship and get to know the crew, I am struck by the camaraderie and sense of purpose that exists among us.
@@ -192,7 +193,7 @@ Jules Verne
 
 Dear Journal,
 
-Today marked the fourth day of our voyage, and I have had the chance to continue settling into life aboard the research vessel L'Exploration. As we make our way towards the abyssopelagia, I have been learning more about the ship and the scientific equipment that we will be using on the journey.
+Today marked the fifth day of our voyage, and I have had the chance to continue settling into life aboard the research vessel L'Exploration. As we make our way towards the abyssopelagia, I have been learning more about the ship and the scientific equipment that we will be using on the journey.
 
 One of the highlights of the day was a tour of the scientific equipment on the ship. With the guidance of Dr. Maria Hernandez, I had the opportunity to see and learn about all of the tools and instruments that we will be using to study the deep sea. From the latest exploration technologies to the sophisticated diving suits and submersibles, I was amazed by the variety and complexity of the equipment.
 
@@ -492,22 +493,6 @@ Until next time,
 
 Jules Verne
 
-<hr>
-<b>August 16, 1873</b>
-
-Dear Journal,
-
-Today marks the day before we return home from our expedition. It's hard to believe that our time in the abyss is coming to an end, but I know that the memories and knowledge we have gained will last a lifetime.
-
-As I reflect on our journey, I can't help but feel grateful for the opportunity to work alongside Dr. Hernandez. She is an incredible scientist and a true inspiration, and I have learned so much from her during our time together.
-
-I find myself thinking about her more and more as the days pass, and I can't shake the feeling that there is something special between us. Whether it's the shared experience of exploring the deep sea or the sense of adventure and curiosity that brought us together, I can't deny that there is a strong connection between us.
-
-I don't know what the future holds, but I can't wait to see where this journey takes us next. Until then, I will cherish the memories of our time in the abyss and the bond that we have formed.
-
-Until next time,
-
-Jules Verne
 
 <hr>
 <b>August 16, 1873</b>
@@ -528,11 +513,11 @@ Until next time,
 
 Jules Verne
 <hr>
-<b>August 18, 1873</b>
+<b>August 17, 1873</b>
 
 Dear Journal,
 
-Today marks the end of our journey to the abyssopelagia. Dr. Hernandez and I have returned to the surface for the last time, feeling changed by our experience and eager to share it with others.
+Today marks the end of our exploration of the abyssopelagia and we will soon be heading homewards. Dr. Hernandez and I have returned to the surface for the last time, feeling changed by our experience and eager to share it with others.
 
 The journey to the abyssopelagia has been an incredible experience that I will never forget. Dr. Hernandez and I set out with the goal of exploring the depths of the ocean, and we were not disappointed. The ocean is a vast and mysterious place, full of wonders that we could never have imagined.
 
@@ -549,6 +534,25 @@ But the journey didn't end there. It has left a lasting impact on me, and I am e
 As I come to the conclusion of this journey, I find myself captivated by the alluring and intelligent Dr. Hernandez. She is a renowned scientist and a truly compassionate individual, and I have grown to adore her wit, her intellect, and her beauty.
 
 In recent days, we have been spending more time together and exchanging tender and cordial words and actions as we work to strengthen our friendship. We have also sought out more opportunities to converse, allowing us to become more intimate with each other. Though we are still at the beginning of our acquaintance, I already find myself yearning for her company when we are apart. I am hopeful that this attraction will continue to blossom and mature into something more profound, and I am eager to see where this journey takes us.
+
+Until next time,
+
+Jules Verne
+
+<hr>
+<b>August 18, 1873</b>
+
+Dear Journal,
+
+Today marks the beginning of the journey back to port. As we set sail, I can't help but feel a sense of sadness and longing. Our journey to the abyssopelagia was an incredible and life-changing experience, and it is hard to say goodbye to it.
+
+But even more than the journey itself, I find myself thinking about Dr. Hernandez. Over the past few weeks, we have grown closer and I have grown to care for her deeply. She is a brilliant and compassionate woman, and I have been captivated by her wit and intellect.
+
+As we sail back to port, I wonder how she feels about me. Do my feelings for her go beyond friendship? Or is she content to return to our normal lives and go our separate ways?
+
+I can't help but feel a sense of uncertainty as we make our way back to port. The thought of saying goodbye to Dr. Hernandez is heartbreaking, and I fear that I will never see her again.
+
+But I am hopeful that our bond will endure and that we will find a way to stay in touch. Until then, I will cherish the memories of our journey and the time we spent together.
 
 Until next time,
 
