@@ -511,6 +511,7 @@ Jules Verne
 
 <hr>
 <b>August 16, 1873</b>
+
 Dear Journal,
 
 As I sit here writing this entry, my emotions are running high. In just a few days, our journey will come to an end and we will go our separate ways.
