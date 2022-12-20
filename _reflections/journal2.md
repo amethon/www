@@ -36,7 +36,7 @@ Jules Verne
 <hr>
 
 <h1>My Voyage of Discovery</h1>
-<b>April 12, 1872</b>
+<b>April 12, 1873</b>
 
 Dear Journal,
 
@@ -671,6 +671,24 @@ I am grateful for the support and guidance of each member of the crew, who have 
 Until next time,
 
 Jules Verne
+
+<hr>
+<b>August 24, 1873</b>
+
+I have finally returned to Paris, and it feels strange to be back home after so many weeks at sea. The journey to the abyssopelagia was a truly extraordinary and life-changing experience, and I am still trying to process all that I saw and felt during those months of exploration.
+
+As I reflect on my journey, I am filled with a sense of awe and wonder at the mysteries and wonders of the deep sea. The creatures that live in the abyssopelagia are truly otherworldly, and I will never forget the haunting beauty of the jellyfish, the lanternfish, and the sunken wrecks.
+
+But my journey was not just about scientific discovery; it was also a journey into the heart of my own being. I felt a sense of isolation and loneliness as I descended into the depths, and I began to understand that the ocean was a reflection of myself and the world around me.
+
+I am grateful to have had the opportunity to share this journey with the esteemed Dr. Hernandez and the other members of the expedition. Their knowledge and expertise added greatly to my understanding of the deep sea, and I am thankful for their guidance and support throughout the voyage.
+
+As I begin to return to my daily life in Paris, I am filled with a renewed sense of curiosity and a desire to continue exploring the wonders of the world. I am eager to share my journey with others through my writing, and I hope that my words will inspire and educate future generations.
+
+I was overjoyed to receive a letter from Dr. Hernandez today, in which she expressed a desire to visit me in Paris and discuss the results of our expedition in more detail. It is always a pleasure to spend time with such a brilliant and fascinating woman, and I cannot wait to see her again and continue our discussions about the deep sea and its mysteries.
+
+In the coming days and weeks, I will be busy preparing for the publication of my work and planning for Dr. Hernandez's visit. But I know that the memories of my journey to the abyssopelagia will stay with me forever, and I am already planning my next voyage of discovery. The ocean is a vast and uncharted realm, full of wonders and mysteries that we have only just begun to explore. I cannot wait to see what else it has in store for us.
+
 <hr>
 <h1>Literary Reviews</h1>
 
