@@ -170,7 +170,7 @@ Jules Verne
 
 Dear Journal,
 
-This morning, we set out on our journey with much excitement and anticipation. As the ship glided through the waves, I could not help but feel a sense of freedom and possibility. The day passed quickly as we became acquainted with one another and discussed our plans for the voyage.
+The day began early, as I made my way from my hotel to the boat, my heart beating with excitement and nerves. Upon arriving at the vessel, I was greeted by the captain and the rest of the crew, all of whom seemed eager to set sail. The day passed quickly as we became acquainted with one another and discussed our plans for the voyage.
 
 I had the pleasure of speaking with Dr. Maria Hernandez, a scientist on board, about our research objectives and the mysteries we hope to uncover in the depths of the ocean. Her extensive knowledge and passion for the marine environment left a lasting impression on me, and I eagerly await the opportunity to contribute to our research efforts.
 
@@ -191,7 +191,7 @@ Jules Verne
 
 Dear Journal,
 
-On this day, L'Exploration set sail for the abyssopelagia. As I watched the land retreat behind us, I could not help but feel a surge of excitement and adventure. Our departure, however, was not without its difficulties. One of the engines was not functioning correctly and required repair, causing a delay in our departure. Additionally, the sea was rough as we navigated out of the harbor, making for a tumultuous start to our journey.
+This morning, we set out on our journey with much excitement and anticipation. As the ship glided through the waves, I could not help but feel a sense of freedom and possibility. As I watched the land retreat behind us, I could not help but feel a surge of excitement and adventure. Our departure, however, was not without its difficulties. One of the engines was not functioning correctly and required repair, causing a delay in our departure. Additionally, the sea was rough as we navigated out of the harbor, making for a tumultuous start to our journey.
 
 Despite these challenges, the crew worked diligently to overcome them and we eventually set sail towards the abyssopelagia. As we navigated through the turbulent waters, I observed a strong sense of pride and camaraderie among the crew as we worked together to overcome the obstacles before us.
 
@@ -224,6 +224,7 @@ Jules Verne
 
 <hr>
 <b>July 30, 1873</b>
+
 Dear Journal,
 
 The L'Exploration has now been under sail for three days and I have become more accustomed to life aboard this vessel. I have had the pleasure of engaging in a number of intellectually stimulating conversations with the esteemed crew, learning much from their expertise.
@@ -267,7 +268,7 @@ The fifth day of our voyage aboard the research vessel L'Exploration has come an
 
 Dr. Maria Hernandez took me on a tour of the ship's scientific arsenal, which includes an array of advanced technologies and sophisticated diving suits and submersibles. The level of innovation and advancement present in these tools is truly impressive, and I eagerly anticipate the opportunity to utilize them in our exploration of the deep sea.
 
-On my way back to my cabin, I encountered a small kitten darting about the corridor. Upon closer inspection, I discovered the fluffy white creature with bright green eyes to be a member of the crew, whom they have named "Moussaillon." The kitten brought us all together, and I spent the evening in its company, getting to know the rest of the crew.
+On my way back to my cabin, I encountered a small kitten darting about the corridor. Upon closer inspection, I discovered the fluffy white creature with bright green eyes to be a member of the crew, whom they have named "Moussaillon." The kitten brought us all together, and I spent the evening in her company, getting to know the rest of the crew.
 
 I am grateful for the sense of community and fellowship that has formed on this voyage, and I look forward to the adventures and discoveries that await us in the future.
 
