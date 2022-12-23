@@ -1,6 +1,6 @@
 ---
 layout: reflection
-title: "Journey to Abyssopelagia"
+title: "Journey to Abyssopelagia - First Cut"
 categories: reflections
 excerpt: The Wonders of the Abyssopelagia - A Voyage of Discovery
 ---
