@@ -122,7 +122,7 @@ Jules Verne
 
 Dear Journal,
 
-Today was a momentous day, as I boarded the research vessel L'Exploration that will take us on our voyage` of discovery to Abyssopelagia. I was impressed by the crew, including Captain Pierre Dubois, First Mate Jacques Rousseau, Chief Engineer Gerard Martin, the deck hands Henri LaCroix and Michel LeBlanc, Cook Marcel Bouchard, and Dr. Pierre Dupont. I am looking forward to working with them and learning from their expertise as we set out to explore the mysteries of the sea.
+Today was a momentous day, as I boarded the research vessel L'Exploration that will take us on our voyage of discovery to Abyssopelagia. I was impressed by the crew, including Captain Pierre Dubois, First Mate Jacques Rousseau, Chief Engineer Gerard Martin, the deck hands Henri LaCroix and Michel LeBlanc, Cook Marcel Bouchard, and Dr. Pierre Dupont. I am looking forward to working with them and learning from their expertise as we set out to explore the mysteries of the sea.
 
 Tomorrow, I will finally have the opportunity to meet the scientist, a renowned oceanographer with a long and distinguished career in the field. I am filled with anticipation and curiosity, eager to learn from this person and contribute to the research and exploration efforts in any way that I can.
 
