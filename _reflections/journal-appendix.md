@@ -227,13 +227,18 @@ Overall, Dr. Pierre Dupont was a valuable and respected member of the crew, and 
 
 ## Ship's Cat - Moussaillon
 
-Moussaillon's story is one of resilience and determination. The kitten was born on the streets of a bustling port town, where she learned to fend for herself at a young age. She quickly developed a keen sense of survival and an ability to adapt to any situation. When she was just a few months old, she stowed away on a ship bound for distant shores, hoping to find a better life.
 
-The crew of the ship discovered Moussaillon hiding in a storage locker and, despite their initial reservations about having a kitten on board, they decided to take her in. They named her Moussaillon, after the term for a young sailor, and she quickly became a beloved member of the crew.
+Moussaillon, or "little sailor," was found as a stray on the docks of the port where L'Exploration was preparing to set sail. Captain Pierre Dubois, a kind and compassionate man, took pity on the orphaned kitten and brought her aboard the ship.
 
-Moussaillon's adventurous spirit and curious nature endeared her to the crew, and she quickly became an integral part of their daily routines. She assisted the cook by chasing mice and kept the crew entertained with her playful antics. She also proved to be a lucky charm, as the ship's voyage was largely uneventful and successful.
+She was a small kitten with a fluffy white coat and bright green eyes. She had a triangular face with a pointed nose and long, delicate whiskers. Her paws were small and dainty, with sharp claws that she used to playfully swat at toys and catch mice.
 
-As the ship set sail on its latest journey, Moussaillon was excited to explore new lands and make more memories with her beloved crew. She is grateful to have found a home on the ship and is determined to make the most of every opportunity that comes her way. The end
+At first, the crew was hesitant to accept the new addition to their ranks, but Moussaillon quickly won them over with her playful antics and affectionate nature. She quickly became a beloved member of the crew, bringing joy and companionship to all who crossed her path.
+
+Despite her petite size, Moussaillon was full of energy and always on the move, darting about the ship and exploring every nook and cranny. She was playful and mischievous, and loved nothing more than chasing a piece of string or batting at a toy mouse.
+
+As the voyage began, Moussaillon proved to be a valuable member of the crew, always alert and attentive to the goings-on of the ship. She assisted the deckhands with their duties, and even helped the cook, M. Marcel Bouchard, by catching any mice that might have gotten into the galley.
+
+Despite her small size, Moussaillon's spirit was larger than life, and she proved to be a source of inspiration and camaraderie for the entire crew. And as the voyage of L'Exploration continues, Moussaillon will no doubt be by their side, ready to face whatever challenges and adventures come their way.
 
 <hr>
 
