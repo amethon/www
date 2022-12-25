@@ -6,19 +6,19 @@ excerpt: The Back Stories
 ---
 
 # The History
-##  La Rochelle in 1870
+##  La Rochelle in 1873
 
-La Rochelle is a port city located on the west coast of France, in the region of Nouvelle-Aquitaine. In 1870, La Rochelle was a major commercial and naval port, with a long history of maritime trade and naval activity. The port was home to a large fleet of merchant ships and was an important gateway to the Atlantic Ocean.
+La Rochelle is a port city located on the west coast of France, in the region of Nouvelle-Aquitaine. In 1873, La Rochelle was a major commercial and naval port, with a long history of maritime trade and naval activity. The port was home to a large fleet of merchant ships and was an important gateway to the Atlantic Ocean.
 
 In the late 19th century, La Rochelle was an important hub for the trade of wine, grain, and other agricultural products from the surrounding region. It was also a major center for shipbuilding and repair, with a number of shipyards located along the harbor. The city was home to a number of naval facilities, including a naval base and a shipyard, which were used to build and maintain ships for the French navy.
 
-The port of La Rochelle was well-equipped and had a number of modern facilities, including a series of quays, warehouses, and cranes for loading and unloading ships. The port was connected to the city by a network of canals and waterways, which allowed ships to easily access the harbor from the open sea. Overall, La Rochelle was a thriving and busy port in 1870, with a strong maritime tradition and a vital role in the region's economy.
+The port of La Rochelle was well-equipped and had a number of modern facilities, including a series of quays, warehouses, and cranes for loading and unloading ships. The port was connected to the city by a network of canals and waterways, which allowed ships to easily access the harbor from the open sea. Overall, La Rochelle was a thriving and busy port in 1873, with a strong maritime tradition and a vital role in the region's economy.
 
-As a visitor to La Rochelle in 1870, you would have arrived in a vibrant and bustling port city with a rich history and a strong maritime tradition. The city would have been bustling with activity, with ships coming and going from the harbor and a constant flow of goods and people moving through the port.
+As a visitor to La Rochelle in 1873, you would have arrived in a vibrant and bustling port city with a rich history and a strong maritime tradition. The city would have been bustling with activity, with ships coming and going from the harbor and a constant flow of goods and people moving through the port.
 
 Upon arriving in La Rochelle, you would likely have been struck by the city's picturesque location on the west coast of France, with its historic harbor, medieval walls, and charming streets and squares. You would have had the opportunity to explore the city's rich cultural heritage, with a number of interesting landmarks and landmarks, including the old port, the medieval clock tower, and the medieval ramparts.
 
-Visiting La Rochelle in 1870, you would have had the opportunity to enjoy a wide range of activities and attractions, including shopping in the city's markets and boutiques, visiting the many museums and galleries, and exploring the surrounding region. You would have also been able to enjoy a variety of local cuisine, with a number of restaurants, cafes, and bistros serving traditional French dishes and seafood specialties. Overall, La Rochelle in 1870 would have been a lively and engaging destination, with something for everyone to enjoy.
+Visiting La Rochelle in 1873, you would have had the opportunity to enjoy a wide range of activities and attractions, including shopping in the city's markets and boutiques, visiting the many museums and galleries, and exploring the surrounding region. You would have also been able to enjoy a variety of local cuisine, with a number of restaurants, cafes, and bistros serving traditional French dishes and seafood specialties. Overall, La Rochelle in 1873 would have been a lively and engaging destination, with something for everyone to enjoy.
 ##  L'Exploration
 
 L’Exploration was a state-of-the-art research vessel that operated in La Rochelle in the late 19th century, setting sail from the bustling port city on various scientific expeditions. It was a small, ocean-going ship that was specifically designed for scientific research and exploration, and was equipped with a range of specialized facilities and technologies. These included fully-equipped laboratories for analyzing samples and conducting experiments, as well as comfortable living quarters for the crew and scientists to rest and relax during long voyages.
@@ -31,7 +31,7 @@ Throughout its operations in La Rochelle, L’Exploration played a crucial role 
 
 ### Crew
 
-The crew of a small research vessel in La Rochelle in 1870 would have been a diverse group of individuals with a range of skills and expertise, working together to operate and maintain the vessel and to conduct scientific research and exploration.
+The crew of a small research vessel in La Rochelle in 1873 would have been a diverse group of individuals with a range of skills and expertise, working together to operate and maintain the vessel and to conduct scientific research and exploration.
 
 Captain: The captain was responsible for the overall operation and management of the vessel, including navigating the vessel, managing the crew, and maintaining the vessel's equipment and systems.
 
@@ -67,10 +67,19 @@ Overall, the research voyage aboard L'Exploration was a groundbreaking and excit
 
 # The Characters
 
+## Jules Verne
+
+Jules Verne was a French author and playwright born in Nantes, France in 1828. In 1873, he would have been 45 years old. Verne is best known for his science fiction novels, including "Twenty Thousand Leagues Under the Sea," "Around the World in Eighty Days," and "Journey to the Center of the Earth." He is often credited with being one of the pioneers of science fiction and is considered one of the most popular and influential writers of the genre.
+
+Verne's early life was marked by a love of literature and the arts. He studied law and literature at the University of Paris and later worked as a lawyer before turning his attention to writing full-time. Verne's first published work, a play called "The Broken Straws," was produced in 1850. He went on to write a number of novels and plays, many of which were science fiction or fantasy.
+
+Verne's writing was known for its attention to detail and scientific accuracy, and he often consulted with scientists and experts in various fields to ensure the accuracy of his work. He was also an avid traveler and used his travels as inspiration for many of his stories.
+
+In 1873, Verne would have been well-known and respected in literary circles, and his works would have been widely read and enjoyed by a wide audience. Despite his success, Verne remained modest and dedicated to his craft, and continued to write and publish prolifically throughout his career.
+
 ##  Scientist: Dr. Maria Hernandez
 
 ### Appearance
-
 
 Dr. Maria Hernandez was a petite woman in her late thirties, with olive skin and long, dark hair that she usually wore pulled back in a braid. She had bright, almond-shaped eyes that sparkled with intelligence and curiosity, and a sharp, expressive face that was often animated with enthusiasm.
 
@@ -222,6 +231,16 @@ Dr. Dupont was known for his calm and steady demeanor, and was often called upon
 In his spare time, Dr. Dupont enjoyed reading and studying the latest medical research and advances. He was always eager to learn more about new developments in the field, and was always looking for ways to improve his knowledge and skills. He was also an avid runner, and enjoyed spending his days off jogging along the beautiful coast of La Rochelle.
 
 Overall, Dr. Pierre Dupont was a valuable and respected member of the crew, and was an integral part of the research vessel L'Exploration. His medical skills and dedication to the crew were an essential part of the ship's scientific expeditions.
+
+## Ship's Cat - Moussaillon
+
+Moussaillon's story is one of resilience and determination. The kitten was born on the streets of a bustling port town, where she learned to fend for herself at a young age. She quickly developed a keen sense of survival and an ability to adapt to any situation. When she was just a few months old, she stowed away on a ship bound for distant shores, hoping to find a better life.
+
+The crew of the ship discovered Moussaillon hiding in a storage locker and, despite their initial reservations about having a kitten on board, they decided to take her in. They named her Moussaillon, after the term for a young sailor, and she quickly became a beloved member of the crew.
+
+Moussaillon's adventurous spirit and curious nature endeared her to the crew, and she quickly became an integral part of their daily routines. She assisted the cook by chasing mice and kept the crew entertained with her playful antics. She also proved to be a lucky charm, as the ship's voyage was largely uneventful and successful.
+
+As the ship set sail on its latest journey, Moussaillon was excited to explore new lands and make more memories with her beloved crew. She is grateful to have found a home on the ship and is determined to make the most of every opportunity that comes her way. The end
 
 <hr>
 
