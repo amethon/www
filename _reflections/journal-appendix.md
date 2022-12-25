@@ -225,11 +225,14 @@ Overall, Dr. Pierre Dupont was a valuable and respected member of the crew, and 
 
 <hr>
 
-# References
+# Recipes
 
-##  Dinner in La Rochelle
+##  Dinner at Le Coquillage, La Rochelle
+
 
 ### Lobster with Lemon Butter Sauce and Roasted Vegetables
+
+> For my main course, I opted for a plate of poached lobster, served with a lemon butter sauce and a side of roasted vegetables. The lobster was tender and succulent, with a rich, buttery flavor that was heightened by the zesty lemon sauce. The vegetables were crisp and flavorful, adding a welcome crunch and balance to the dish.
 
 To prepare this meal, you will need the following ingredients:
 
@@ -257,8 +260,77 @@ To prepare this meal, you will need the following ingredients:
 
 6. Once the lobster is cooked, remove it from the pot and place it on a cutting board. Using a sharp knife, carefully cut the lobster in half lengthwise.
 
-7. Place the lobster halves on a serving platter and spoon the lemon butter sauce over the top. Serve with the roasted vegetables on the side. Enjoy!
+7. Place the lobster halves on a serving platter and spoon the lemon butter sauce over the top. Serve with the roasted vegetables on the side. 
 
+### Dessert - Tarte Tatin
+
+> For dessert, I couldn't resist trying the restaurant's signature tarte tatin, a delicious caramelized apple tart served with a scoop of creamy vanilla bean ice cream. The tart was warm and gooey, with a buttery crust and tender slices of sweet, caramelized apples. The ice cream was rich and creamy, with a hint of vanilla that complemented the tart perfectly. I savored each bite, feeling satisfied and content as I finished my meal.
+
+**Ingredients:**
+
+- 1 pound puff pastry dough
+- 4 medium apples, peeled and thinly sliced
+- 1/2 cup sugar
+- 1/4 cup butter, melted
+- 1 tsp vanilla extract
+- 1 pint vanilla bean ice cream
+  
+**Instructions:**
+
+1. Preheat your oven to 400°F (200°C).
+2. On a lightly floured surface, roll out the puff pastry dough to a 1/4 inch thickness. Cut the dough into a round that is slightly larger than the circumference of your baking dish. Set aside.
+3. In a large, heavy-bottomed pan, heat the sugar over medium heat until it starts to turn amber in color.
+4. Add the butter and vanilla extract, and stir to combine.
+5. Lay the sliced apples in a circular pattern in the pan, making sure to fill in any gaps.
+6. Place the puff pastry dough over the top of the apples, tucking the edges in around the sides of the pan.
+7. Transfer the pan to the preheated oven and bake for 20-25 minutes, or until the pastry is golden brown and the apples are tender.
+8. Remove the pan from the oven and let it cool for a few minutes. Carefully flip the tarte tatin onto a serving plate, and serve warm with a scoop of vanilla bean ice cream. 
+
+### Le Coquillage: Menu
+
+Other items that may have been on the menu at the restaurant in 1873 could include traditional French dishes such as coq au vin, boeuf bourguignon, and croque monsieur. There may also have been a selection of seafood dishes, such as mussels in white wine sauce, grilled salmon with herb butter, and steamed crab legs. In addition to these main courses, there may have been a variety of appetizers and side dishes, such as escargot, pâté, and baguette with butter and cheese. For dessert, there may have been a selection of classic French sweets, such as crème brûlée, chocolate mousse, and macarons.
+
+**Le Menu du 23 Juillet, 1873**
+
+**Entrées**
+
+- Huîtres fraîches: Platter of fresh oysters harvested from the local waters, served on a bed of ice
+- Coquilles St. Jacques: Scallops sautéed in butter and served with a white wine cream sauce
+
+**Plats Principaux**
+
+- Homard Poêlé: Poached lobster served with a lemon butter sauce and a side of roasted vegetables
+- Canard à l'Orange: Roasted duck with an orange glaze, served with a side of mashed potatoes and green beans
+- Tournedos Rossini: Beef tenderloin topped with foie gras and truffles, served with a red wine reduction and a side of roasted potatoes
+
+**Desserts**
+
+- Tarte Tatin: Signature caramelized apple tart served with a scoop of creamy vanilla bean ice cream
+- Crème Brûlée: Classic French custard dessert with a caramelized sugar top
+- Sorbet aux Fruits: Assorted fruit sorbets, including raspberry, strawberry, and lemon
+
+**Boissons**:
+
+- Vin Blanc: Glass of crisp white wine grown in the rolling hills of the region
+Bière: Selection of local craft beers
+- Café: Freshly brewed coffee, served with a side of cream and sugar
+
+
+**Wine List**
+
+The wine list at the restaurant in 1873 would have likely featured a variety of red, white, and sparkling wines from the region of Nouvelle-Aquitaine and other regions of France. The list may have included red wines such as Bordeaux, Cabernet Sauvignon, and Pinot Noir, and white wines such as Chardonnay, Sauvignon Blanc, and Riesling. Sparkling wines such as Champagne and Cremant de Loire may also have been available. The list may have also included fortified wines such as Port and Sherry.
+
+***Wine List - July 23, 1873***
+
+- *Château d'Yquem 1871* - This prestigious white wine is made from the Sémillon and Sauvignon Blanc grapes and is known for its complex flavors and aromas of honey, apricot, and oak. It is a perfect pairing for seafood and poultry dishes.
+
+- *Château Margaux 1870* - This red wine is made from Cabernet Sauvignon grapes and is known for its elegant flavors and aromas of blackcurrant, cherry, and oak. It is a perfect pairing for red meats and strong cheeses.
+
+- *Champagne Louis Roederer Brut Premier 1872* - This sparkling wine is made from Pinot Noir, Pinot Meunier, and Chardonnay grapes and is known for its crisp and refreshing flavors and aromas of citrus, green apple, and toast. It is a perfect pairing for appetizers and desserts.
+
+- *Bordeaux Blanc 1870* - This white wine is made from Sauvignon Blanc and Semillon grapes and is known for its vibrant flavors and aromas of citrus, green apple, and herbs. It is a perfect pairing for lighter seafood and poultry dishes.
+
+- *Loire Valley Rosé 1873* - This rosé wine is made from Cabernet Franc and Gamay grapes and is known for its light and fruity flavors and aromas of strawberry, raspberry, and watermelon. It is a perfect pairing for lighter dishes and warm summer evenings.
 
 ## Marcel's Roast Feast
 
@@ -288,7 +360,7 @@ M. Bouchard's famous Roast Beef with Horseradish Cream Sauce and Roasted Vegetab
 4. Transfer the roast beef to a roasting pan and roast it in the preheated oven for 20 minutes per 500 grams of meat.
 5. While the roast beef is cooking, prepare the horseradish cream sauce. In a small saucepan, combine the beef broth, heavy cream, and horseradish. Heat the mixture over medium heat, stirring occasionally, until it comes to a boil. Reduce the heat to low and simmer for 5-10 minutes, or until the sauce has thickened. Stir in the chopped parsley.
 6. To prepare the roasted vegetables, toss them with the olive oil, salt, and pepper. Spread them out on a separate baking sheet and roast them in the oven alongside the roast beef for 20-25 minutes, or until they are tender and golden brown.
-7. Once the roast beef is cooked to your desired level of doneness, remove it from the oven and allow it to rest for 10-15 minutes before slicing. Serve the roast beef with the horseradish cream sauce and the roasted vegetables. Enjoy!
+7. Once the roast beef is cooked to your desired level of doneness, remove it from the oven and allow it to rest for 10-15 minutes before slicing. Serve the roast beef with the horseradish cream sauce and the roasted vegetables. 
 
 
 ## Marcel's Seafood Extravaganza
@@ -321,7 +393,7 @@ M. Bouchard's famous Roast Beef with Horseradish Cream Sauce and Roasted Vegetab
 
 8. While the seafood is baking, roast the vegetables in the oven for 20-25 minutes, or until they are tender and caramelized.
 
-9. Serve the seafood and vegetables together on a platter, garnished with additional parsley if desired. Enjoy!
+9. Serve the seafood and vegetables together on a platter, garnished with additional parsley if desired. 
 
 ## Marcel's Chocolate Mousse
 
