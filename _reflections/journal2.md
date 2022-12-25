@@ -265,11 +265,15 @@ Jules Verne
 
 Dear Journal,
 
+
+
 The fifth day of our voyage aboard the research vessel L'Exploration has come and gone, and I have had the opportunity to become more accustomed to life on the ship. As we journey towards Abyssopelagia, I have taken the chance to familiarize myself with the scientific equipment we will be using on this expedition.
 
 Dr. Maria Hernandez took me on a tour of the ship's scientific arsenal, which includes an array of advanced technologies and sophisticated diving suits and submersibles. The level of innovation and advancement present in these tools is truly impressive, and I eagerly anticipate the opportunity to utilize them in our exploration of the deep sea.
 
-On my way back to my cabin, I encountered a small kitten darting about the corridor. Upon closer inspection, I discovered the fluffy white creature with bright green eyes to be a member of the crew, whom they have named "Moussaillon." The kitten brought us all together, and I spent the evening in her company, getting to know the rest of the crew.
+I am pleased to report that the leak in my cabin has been repaired, and I am now back in my own quarters, and I must say that it feels good to be back in my own space. The temporary quarters were comfortable enough, but it is always nice to have one's own things around.
+
+This evening, on my way back to my cabin, I encountered a small kitten darting about the corridor. Upon closer inspection, I discovered the fluffy white creature with bright green eyes to be a member of the crew, whom they have named "Moussaillon." The kitten brought us all together, and I spent the evening in her company, getting to know the rest of the crew.
 
 I am most appreciative of the sense of community and fellowship that has formed on this voyage, and I look forward to the adventures and discoveries that await us in the future.
 
@@ -288,7 +292,7 @@ The creatures we encountered on our journey were truly breathtaking. Gigantic sq
 
 As the day wore on and our air supply began to dwindle, we reluctantly began our ascent back to the surface. But even as we returned to the relative safety and familiarity of the surface, I knew that this journey had changed me in ways I could not yet fully understand. I was grateful to have had the opportunity to experience such a breathtaking and awe-inspiring adventure, and to have had the skilled and knowledgeable Dr. Hernandez by my side throughout it all.
 
-The highlight of the evening was a visit to the galley, where I had the pleasure of observing the culinary skills of M. Marcel Bouchard, the chief cook of the vessel. He is a skilled and experienced chef, with a deep understanding of the challenges and opportunities of cooking on a research vessel. As I watched him prepare a variety of delicious dishes, I was struck by his attention to detail and his ability to create nourishing and flavorful meals in a challenging environment.
+The highlight of the evening was a visit to the galley, where I had the pleasure of observing the culinary skills of M. Marcel Bouchard, the chief cook of the vessel. He is a skilled and experienced chef, with a deep understanding of the challenges and opportunities of cooking on a research vessel. As I watched him prepare a variety of delicious dishes, I was struck by his attention to detail and his ability to create nourishing and flavorful meals despite the difficult conditions on board the ship.
 
 As I close my journal for the evening, I am consumed by a sense of wonder and excitement for what the future holds. Who knows what incredible discoveries and adventures await us in the depths of Abyssopelagia? Only time will tell.
 
