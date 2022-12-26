@@ -5,6 +5,26 @@ categories: reflections
 excerpt: Journey to Abyssopelagia - A Voyage of Discovery
 ---
 
+## Foreward
+
+Dear readers,
+
+As you embark on this journey to the depths of the ocean and into the heart of the human soul, I hope that you will find yourself as captivated and inspired as I was when I first read "Wonders of Abyssopelagia."
+
+Jules Verne's vivid descriptions and introspective reflections bring the mysterious region of Abyssopelagia to life, and his ability to evoke a sense of wonder and awe in the reader is truly remarkable. Through his journey to the depths of the ocean, Verne captures the haunting beauty and isolation of the deep sea, and explores themes of self-discovery and the power of the human spirit.
+
+In this short story, Verne takes the reader on a journey that is both intellectually stimulating and emotionally resonant. I hope that you will find yourself as moved and enriched by this story as I was, and that it will stay with you long after you turn the final page.
+
+Enjoy the journey!
+
+Sincerely,
+
+amethon
+
+
+# Wonders of Abyssopelagia
+
+
 Jules Verne was a French author and pioneer of science fiction who was known for his imaginative and visionary works. He had always been fascinated by the mysteries of the deep sea, and he had long dreamed of exploring the depths of the ocean and discovering its secrets.
 
 In February 1873, Verne was approached by a group of scientists and adventurers who were planning an oceanic research mission to the depths of Abyssopelagia, the uncharted depths of the sea. They invited Verne to join them as an observer and chronicler of the journey, and he eagerly accepted the opportunity.
@@ -14,9 +34,9 @@ Verne spent months preparing for the voyage, researching the deep sea and its in
 After returning from the expedition in September 1873, Verne took some time to reflect on his experiences before deciding to write a letter to 'Le Naturaliste' on November 12th.
 
 <hr>
-<b>November 12, 1873</b>
+**November 12, 1873**
 
-<b>The Haunting Beauty of Abyssopelagia</b> 
+**The Haunting Beauty of Abyssopelagia** 
 
 I am writing to you today to share the incredible experience of my recent voyage of discovery to the depths of the ocean, to the mysterious region known as Abyssopelagia.
 
@@ -36,8 +56,8 @@ Jules Verne
 
 <hr>
 
-<h1>My Voyage of Discovery</h1>
-<b>February 12, 1873</b>
+# My Voyage of Discovery
+**February 12, 1873**
 
 Dear Journal,
 
@@ -52,7 +72,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 5, 1873</b>
+**July 5, 1873**
 
 Dear Journal,
 
@@ -68,7 +88,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 14, 1873</b>
+**July 14, 1873**
 
 Dear Journal,
 
@@ -85,7 +105,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 23, 1873</b>
+**July 23, 1873**
 
 
 Dear Journal,
@@ -114,7 +134,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 24, 1873</b>
+**July 24, 1873**
 
 Dear Journal,
 
@@ -132,7 +152,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 25, 1873</b>
+**July 25, 1873**
 
 Dear Journal,
 
@@ -148,7 +168,7 @@ Jules Verne
 
 
 <hr>
-<b>July 26, 1873</b>
+**July 26, 1873**
 
 Dearest Journal,
 
@@ -163,7 +183,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 27, 1873</b>
+**July 27, 1873**
 
 Dear Journal,
 
@@ -184,7 +204,7 @@ Sincerely,
 Jules Verne
 
 <hr>
-<b>July 28, 1873</b>
+**July 28, 1873**
 
 Dear Journal,
 
@@ -203,7 +223,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 29, 1873</b>
+**July 29, 1873**
 
 Dear Journal,
 
@@ -220,7 +240,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>July 30, 1873</b>
+**July 30, 1873**
 
 Dear Journal,
 
@@ -236,7 +256,7 @@ Until the next entry,
 
 Jules Verne
 <hr>
-<b>July 31, 1873</b>
+**July 31, 1873**
 
 Dear Journal,
 
@@ -257,7 +277,7 @@ Despite the many dangers that the ocean poses, I cannot help but feel a sense of
 Jules Verne
 
 <hr>
-<b>August 1, 1873</b>
+**August 1, 1873**
 
 Dear Journal,
 
@@ -277,7 +297,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 2, 1873</b>
+**August 2, 1873**
 
 Dear Journal,
 
@@ -296,11 +316,11 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 3, 1873</b>
+**August 3, 1873**
 
 Dear Journal,
 
-<i>Reflection</i>
+*Reflection*
 
 As I sit here at my desk, reflecting on the events of the past week, I am suffused with a feeling of gratitude and awe. It has been an incredible journey, one that has taken me to the depths of the ocean and back again, and one that has challenged me in ways that I never could have imagined.
 
@@ -314,7 +334,7 @@ As I look ahead to the rest of the journey, I am overflowing with eagerness and 
 
 I am indebted to the opportunity to explore and discover, and I am excited to see what the future holds.
 
-<i>Review</i>
+*Review*
 
 I spent the day recovering from the weariness and soreness of our voyage to Abyssopelagia. While reclining in my berth, I could not help but reflect on the remarkable experiences of the past day and feel gratitude for the opportunity to undertake such a breathtaking and awe-inspiring adventure. Dr. Maria Hernandez, who accompanied me on the voyage, proved to be a skilled and knowledgeable guide.
 
@@ -329,7 +349,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 4, 1873</b>
+**August 4, 1873**
 
 Dear Journal,
 
@@ -349,7 +369,7 @@ Jules Verne
 
 
 <hr>
-<b>August 5, 1873</b>
+**August 5, 1873**
 
 Dear Journal,
 
@@ -370,7 +390,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 6, 1873</b>
+**August 6, 1873**
 
 Dear Journal,
 
@@ -386,7 +406,7 @@ Until next time,
 
 Jules Verne
 <hr>
-<b>August 7, 1873</b>
+**August 7, 1873**
 
 Dear Journal,
 
@@ -403,7 +423,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 8, 1873</b>
+**August 8, 1873**
 
 Dear Journal,
 
@@ -419,7 +439,7 @@ Until next time,
 
 Jules Verne
 <hr>
-<b>August 9, 1873</b>
+**August 9, 1873**
 
 Dear Journal,
 
@@ -440,7 +460,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 10, 1873</b>
+**August 10, 1873**
 
 Dear Journal,
 
@@ -459,7 +479,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 11, 1873</b>
+**August 11, 1873**
 
 Dear Journal,
 
@@ -483,7 +503,7 @@ Jules Verne
 
 
 <hr>
-<b>August 12, 1873</b>
+**August 12, 1873**
 
 Dear Journal,
 
@@ -501,7 +521,7 @@ Jules Verne
 
 
 <hr>
-<b>August 13, 1873</b>
+**August 13, 1873**
 
 Dear Journal,
 
@@ -524,7 +544,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 14, 1873</b>
+**August 14, 1873**
 
 Dear Journal,
 
@@ -545,7 +565,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 15, 1873</b>
+**August 15, 1873**
 
 Dear Journal,
 
@@ -572,7 +592,7 @@ Jules Verne
 
 
 <hr>
-<b>August 16, 1873</b>
+**August 16, 1873**
 
 Dear Journal,
 
@@ -594,7 +614,7 @@ Until next time,
 
 Jules Verne
 <hr>
-<b>August 17, 1873</b>
+**August 17, 1873**
 
 Dear Journal,
 
@@ -621,7 +641,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 18, 1873</b>
+**August 18, 1873**
 
 Dear Journal,
 
@@ -642,7 +662,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 19, 1873</b>
+**August 19, 1873**
 
 This day was marked by an extraordinary event, as we observed a pod of dolphins swimming alongside our vessel. It was a magical sight, and I felt a sense of awe as I watched them dart through the water. We had the opportunity to observe them up close and communicate with them using clicks and other sounds. It was a unique and unforgettable experience, one that I will always cherish.
 
@@ -659,7 +679,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 20, 1873</b>
+**August 20, 1873**
 
 Dear Journal,
 
@@ -674,7 +694,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 24, 1873</b>
+**August 24, 1873**
 
 I have finally returned to Paris, and it feels strange to be back home after so many weeks at sea. The expedition to Abyssopelagia was a truly extraordinary and life-changing experience, and I am still trying to process all that I saw and felt during those months of exploration.
 
@@ -692,7 +712,7 @@ Until next time,
 Jules Verne
 
 <hr>
-<b>August 31, 1873</b>
+**August 31, 1873**
 
 I was overjoyed to receive a letter from Dr. Hernandez today, in which she expressed a desire to visit me in Paris and discuss the results of our expedition in more detail. It is always a pleasure to spend time with such a brilliant and fascinating woman, and I cannot wait to see her again and continue our discussions about the deep sea and its mysteries.
 
