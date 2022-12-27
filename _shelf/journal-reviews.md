@@ -5,6 +5,20 @@ categories: shelf
 excerpt: The Back Stories
 ---
 
+# Foreward
+
+Dear readers,  
+
+As you embark on this journey to the depths of the ocean and into the heart of the human soul, I hope that you will find yourself as captivated and inspired as I was when I first read “Wonders of Abyssopelagia.”  
+
+Jules Verne’s vivid descriptions and introspective reflections bring the mysterious region of Abyssopelagia to life, and his ability to evoke a sense of wonder and awe in the reader is truly remarkable. Through his journey to the depths of the ocean, Verne captures the haunting beauty and isolation of the deep sea, and explores themes of self-discovery and the power of the human spirit.  
+
+In this short story, Verne takes the reader on a journey that is both intellectually stimulating and emotionally resonant. I hope that you will find yourself as moved and enriched by this story as I was, and that it will stay with you long after you turn the final page.  Enjoy the journey!  
+
+Sincerely,  
+
+amethon 
+
 # Book Description
 
 "Wonders of Abyssopelagia" is a thrilling short story by Jules Verne, the master of science fiction. In this captivating tale, Verne takes the reader on a journey to the depths of the ocean, exploring the mysteries and wonders of the abyssopelagia, a mysterious region of the sea beyond 1000 fathoms depth.
@@ -16,7 +30,7 @@ In addition to its breathtaking imagery, "Wonders of Abyssopelagia" also explore
 With its intellectually stimulating and beautifully written prose, "Wonders of Abyssopelagia" is a must-read for fans of science fiction and adventure stories. Verne's vivid descriptions and introspective reflections bring Abyssopelagia to life and make this a truly memorable and enriching read.
 
 
-# GPT
+# Acknowlegement
 
 As a child I was an avid reader and fan of science fiction, I was always fascinated by the works of Jules Verne and his ability to transport readers to far-off, fantastical worlds. When I heard about OpenAI's chatGPT, a powerful language model that can generate human-like text, I knew I had to give it a try.
 
@@ -30,10 +44,7 @@ Finally, I used chatGPT to fine-tune and polish the final draft of my story. Its
 
 Overall, my experience using chatGPT to create "Wonders of Abyssopelagia" was a great success. It allowed me to tap into my creativity and generate ideas that I might never have thought of on my own. I would highly recommend chatGPT to anyone looking to get started in writing or looking to take their work to the next level.
 
-
-
-
-
+I wish to thank the ChatGPT team and OpenAI for making all this possible. And also the many other talented people who paved the way.
 
 # Literary Reviews
 

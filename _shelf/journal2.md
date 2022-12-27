@@ -61,7 +61,7 @@ Jules Verne
 
 Dear Journal,
 
-Today I received a letter from a group of esteemed scientists and adventurers inviting me to join them on a voyage of discovery to Abyssopelagia, the mysterious region of the ocean beyond 1000 fathoms depth. As a devotee of the wonders of the deep and a long-time dreamer of oceanic exploration, I accepted their invitation with alacrity.
+Today I received a letter from a group of esteemed scientists and adventurers inviting me to join them on a voyage of discovery to Abyssopelagia, a mysterious region of the deep ocean. As a devotee of the wonders of the deep and a long-time dreamer of oceanic exploration, I accepted their invitation with alacrity.
 
 I have spent the day acquainting myself with the necessary equipment and supplies for the journey, which is scheduled to depart in the coming weeks. I have also researched Abyssopelagia and its inhabitants, and the more I learn, the more enthralled I become with the prospect of exploring this strange and exotic realm.
 
@@ -110,7 +110,7 @@ Jules Verne
 
 Dear Journal,
 
-Today marks a significant occasion, as I have arrived in La Rochelle, the starting point for my voyage to Abyssopelagia, the mysterious waters beyond 1000 fathoms. The journey from Paris was long but invigorating, and upon arriving in La Rochelle, I was struck by the lively atmosphere of this charming port town.
+Today marks a significant occasion, as I have arrived in La Rochelle, the starting point for my voyage to Abyssopelagia, a mysterious region in the deep ocean. The journey from Paris was long but invigorating, and upon arriving in La Rochelle, I was struck by the lively atmosphere of this charming port town.
 
 As I walked through the streets, taking in the sights and sounds of La Rochelle, I was filled with an exhilarating sense of anticipation and curiosity. The colorful storefronts and narrow, winding streets seemed to beckon me forward, inviting me to explore and discover all that the town had to offer. The people of La Rochelle were equally full of energy and life, going about their days with a sense of purpose and pride.
 

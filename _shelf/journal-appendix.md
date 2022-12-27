@@ -5,6 +5,19 @@ title: "Wonders of Abyssopelagia - Appendix"
 categories: shelf
 excerpt: The Back Stories
 ---
+# Afterward
+
+The voyage of L'Exploration began in the bustling port of La Rochelle, France, where the ship was stocked and prepared for a journey of scientific research and exploration. The vessel, a state-of-the-art ship, was crewed by a skilled and dedicated team, all of whom were eager to embark on this exciting adventure.
+
+As the ship set sail, the crew of L'Exploration was joined by a small but mighty kitten, whom they named Moussaillon. The fluffy white feline quickly became a beloved member of the crew, bringing joy and companionship to all who crossed her path.
+
+Over the course of the voyage, the crew of L'Exploration encountered a wide range of challenges and adventures, from rough seas and bad weather to deep waters and strange creatures. They worked together as a team, relying on their specialized skills and expertise to navigate the unknown waters and conduct their scientific research.
+
+Food was an important part of life aboard the ship, and the cook, M. Marcel Bouchard, worked tirelessly to provide the crew with nourishing and satisfying meals. Despite the challenges of cooking at sea, Bouchard always managed to come up with delicious and varied dishes, much to the delight of the crew.
+
+In the end, the voyage of L'Exploration was a resounding success, with the crew returning home with a wealth of new knowledge and unforgettable experiences. And Moussaillon, the little sailor, will always be remembered as a vital part of the team, bringing joy and companionship to all who sailed with her.
+
+
 # The History
 ##  La Rochelle in 1873
 
@@ -28,26 +41,6 @@ L’Exploration was also equipped with a range of advanced scientific instrument
 The research vessel was commissioned by the French government in the early 1850s, and has been a fixture in the world of oceanic research ever since. Over the years, it has embarked on a number of voyages to distant and exotic locations, from the icy waters of the Arctic to the steamy rainforests of the Amazon.
 
 Throughout its operations in La Rochelle, L’Exploration played a crucial role in advancing scientific research and exploration in the region. Its sophisticated technology and specialized facilities allowed it to support a range of scientific activities, including studying the ocean floor and analyzing the composition of marine life, conducting meteorological observations, mapping the ocean's currents and features, and studying the impacts of human activities on the ocean and its ecosystems. The vessel was also used for more practical purposes, such as mapping uncharted areas of the ocean and assisting with search and rescue operations. As a result, L’Exploration became an integral part of the city's rich maritime tradition and played a key role in shaping its reputation as a hub for scientific research and exploration.
-
-### Crew
-
-The crew of a small research vessel in La Rochelle in 1873 would have been a diverse group of individuals with a range of skills and expertise, working together to operate and maintain the vessel and to conduct scientific research and exploration.
-
-**Captain**: The captain was responsible for the overall operation and management of the vessel, including navigating the vessel, managing the crew, and maintaining the vessel's equipment and systems.
-
-**First mate**: The first mate was responsible for assisting the captain in the operation and management of the vessel. The first mate may also have been responsible for supervising the deck crew and ensuring that the vessel was properly loaded and unloaded.
-
-**Chief engineer**: The chief engineer was responsible for maintaining and repairing the vessel's engines and other mechanical systems. The chief engineer may also have been responsible for managing the engineering crew and ensuring that the vessel was operating efficiently.
-
-**Navigator**: The navigator was responsible for navigating the vessel and ensuring that it stayed on course. The navigator may have used a variety of tools and instruments, including maps, compasses, and navigational aids, to plot the vessel's course and keep it on track.
-
-**Scientists**: The scientists on board the vessel were responsible for conducting the research and exploration activities. Scientists may have specialized in a particular field, such as oceanography, biology, or geology, and may have used a range of scientific instruments and equipment to collect data and samples.
-
-**Deck crew**: The deck crew was responsible for a variety of tasks related to the operation and maintenance of the vessel, including loading and unloading cargo, handling mooring lines, and performing general upkeep and maintenance on the vessel.
-
-**Cook**: The cook was responsible for preparing and serving meals for the crew and scientists on board the vessel. The cook must have ensured that the food was nourishing and satisfying, and that it met any dietary requirements of the crew and scientists.
-
-**Medical officer**: The medical officer was responsible for providing medical care and attention to the crew and scientists on board the vessel. The medical officer may have been called upon to diagnose and treat illnesses and injuries, and must have been prepared to handle any medical emergencies that may have arisen.
 
 ## The Voyage
 
@@ -192,7 +185,49 @@ Despite her small size, Moussaillon's spirit was larger than life, and she prove
 
 ##  Dinner at Le Coquillage, La Rochelle
 
+Items that may have been on the menu at the restaurant in 1873 could include traditional French dishes such as coq au vin, boeuf bourguignon, and croque monsieur. There may also have been a selection of seafood dishes, such as mussels in white wine sauce, grilled salmon with herb butter, and steamed crab legs. In addition to these main courses, there may have been a variety of appetizers and side dishes, such as escargot, pâté, and baguette with butter and cheese. For dessert, there may have been a selection of classic French sweets, such as crème brûlée, chocolate mousse, and macarons.
 
+**Le Menu du 23 Juillet, 1873**
+
+**Entrées**
+
+- Huîtres fraîches: Platter of fresh oysters harvested from the local waters, served on a bed of ice
+- Coquilles St. Jacques: Scallops sautéed in butter and served with a white wine cream sauce
+
+**Plats Principaux**
+
+- Homard Poêlé: Poached lobster served with a lemon butter sauce and a side of roasted vegetables
+- Canard à l'Orange: Roasted duck with an orange glaze, served with a side of mashed potatoes and green beans
+- Tournedos Rossini: Beef tenderloin topped with foie gras and truffles, served with a red wine reduction and a side of roasted potatoes
+
+**Desserts**
+
+- Tarte Tatin: Signature caramelized apple tart served with a scoop of creamy vanilla bean ice cream
+- Crème Brûlée: Classic French custard dessert with a caramelized sugar top
+- Sorbet aux Fruits: Assorted fruit sorbets, including raspberry, strawberry, and lemon
+
+**Boissons**:
+
+- Vin Blanc: Glass of crisp white wine grown in the rolling hills of the region
+Bière: Selection of local craft beers
+- Café: Freshly brewed coffee, served with a side of cream and sugar
+
+
+**Wine List**
+
+The wine list at the restaurant in 1873 would have likely featured a variety of red, white, and sparkling wines from the region of Nouvelle-Aquitaine and other regions of France. The list may have included red wines such as Bordeaux, Cabernet Sauvignon, and Pinot Noir, and white wines such as Chardonnay, Sauvignon Blanc, and Riesling. Sparkling wines such as Champagne and Cremant de Loire may also have been available. The list may have also included fortified wines such as Port and Sherry.
+
+***Wine List - July 23, 1873***
+
+- *Château d'Yquem 1871* - luxurious white wine with a rich, buttery flavor and a long, smooth finish
+
+- *Château Margaux 1870* - sophisticated red wine with a bold, full-bodied flavor and a hint of spice
+
+- *Champagne Louis Roederer Brut Premier 1872* - crisp and sparkling wine with a lively, effervescent character and a refreshing finish
+
+- *Bordeaux Blanc 1870* - crisp and refreshing white wine with a bright, fruity flavor and a hint of herbs
+
+- *Loire Valley Rosé 1873* - light and refreshing rosé wine with a delicate, fruity flavor and a pleasant, floral aroma.
 ### Lobster with Lemon Butter Sauce and Roasted Vegetables
 
 > For my main course, I opted for a plate of poached lobster, served with a lemon butter sauce and a side of roasted vegetables. The lobster was tender and succulent, with a rich, buttery flavor that was heightened by the zesty lemon sauce. The vegetables were crisp and flavorful, adding a welcome crunch and balance to the dish.
@@ -249,51 +284,7 @@ To prepare this meal, you will need the following ingredients:
 7. Transfer the pan to the preheated oven and bake for 20-25 minutes, or until the pastry is golden brown and the apples are tender.
 8. Remove the pan from the oven and let it cool for a few minutes. Carefully flip the tarte tatin onto a serving plate, and serve warm with a scoop of vanilla bean ice cream. 
 
-### Le Coquillage: Menu
 
-Other items that may have been on the menu at the restaurant in 1873 could include traditional French dishes such as coq au vin, boeuf bourguignon, and croque monsieur. There may also have been a selection of seafood dishes, such as mussels in white wine sauce, grilled salmon with herb butter, and steamed crab legs. In addition to these main courses, there may have been a variety of appetizers and side dishes, such as escargot, pâté, and baguette with butter and cheese. For dessert, there may have been a selection of classic French sweets, such as crème brûlée, chocolate mousse, and macarons.
-
-**Le Menu du 23 Juillet, 1873**
-
-**Entrées**
-
-- Huîtres fraîches: Platter of fresh oysters harvested from the local waters, served on a bed of ice
-- Coquilles St. Jacques: Scallops sautéed in butter and served with a white wine cream sauce
-
-**Plats Principaux**
-
-- Homard Poêlé: Poached lobster served with a lemon butter sauce and a side of roasted vegetables
-- Canard à l'Orange: Roasted duck with an orange glaze, served with a side of mashed potatoes and green beans
-- Tournedos Rossini: Beef tenderloin topped with foie gras and truffles, served with a red wine reduction and a side of roasted potatoes
-
-**Desserts**
-
-- Tarte Tatin: Signature caramelized apple tart served with a scoop of creamy vanilla bean ice cream
-- Crème Brûlée: Classic French custard dessert with a caramelized sugar top
-- Sorbet aux Fruits: Assorted fruit sorbets, including raspberry, strawberry, and lemon
-
-**Boissons**:
-
-- Vin Blanc: Glass of crisp white wine grown in the rolling hills of the region
-Bière: Selection of local craft beers
-- Café: Freshly brewed coffee, served with a side of cream and sugar
-
-
-**Wine List**
-
-The wine list at the restaurant in 1873 would have likely featured a variety of red, white, and sparkling wines from the region of Nouvelle-Aquitaine and other regions of France. The list may have included red wines such as Bordeaux, Cabernet Sauvignon, and Pinot Noir, and white wines such as Chardonnay, Sauvignon Blanc, and Riesling. Sparkling wines such as Champagne and Cremant de Loire may also have been available. The list may have also included fortified wines such as Port and Sherry.
-
-***Wine List - July 23, 1873***
-
-- *Château d'Yquem 1871* - luxurious white wine with a rich, buttery flavor and a long, smooth finish
-
-- *Château Margaux 1870* - sophisticated red wine with a bold, full-bodied flavor and a hint of spice
-
-- *Champagne Louis Roederer Brut Premier 1872* - crisp and sparkling wine with a lively, effervescent character and a refreshing finish
-
-- *Bordeaux Blanc 1870* - crisp and refreshing white wine with a bright, fruity flavor and a hint of herbs
-
-- *Loire Valley Rosé 1873* - light and refreshing rosé wine with a delicate, fruity flavor and a pleasant, floral aroma.
 
 ## Marcel's Roast Feast
 
