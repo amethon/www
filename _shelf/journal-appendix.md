@@ -1,7 +1,8 @@
 ---
-layout: reflection
+layout: book
+
 title: "Wonders of Abyssopelagia - Appendix"
-categories: reflections
+categories: shelf
 excerpt: The Back Stories
 ---
 # The History

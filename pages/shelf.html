@@ -1,0 +1,30 @@
+---
+layout: default
+title: shelf
+nav: /
+---
+
+<h1>Shelf</h1>
+
+
+<!-- <ul>
+  {% for collection in site.collections %}
+    <div>
+      {{ collection.label }}
+      {% for item  in collection.docs %}
+      <div>
+        - {{ item.date }}
+      </div>
+    {% endfor %}
+    </div>
+  {% endfor %}
+</ul> -->
+
+<ul>
+  {% for book in site.shelf %}
+    <div>
+      <h2><a href="{{ book.url  | relative_url}}">{{ book.title }}</a></h2>
+      {{ book.excerpt }}
+    </div>
+  {% endfor %}
+</ul> 

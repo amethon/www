@@ -1,7 +1,7 @@
 ---
-layout: reflection
+layout: book
 title: "Wonders of Abyssopelagia"
-categories: reflections
+categories: shelf
 excerpt: Journey to Abyssopelagia - A Voyage of Discovery
 ---
 

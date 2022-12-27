@@ -74,3 +74,8 @@ collections:
     output: true
   reflections:
     output: true
+  shelf:
+    output: true
+
+exclude:
+  - local

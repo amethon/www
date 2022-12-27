@@ -1,7 +1,7 @@
 ---
-layout: reflection
+layout: book
 title: "Wonders of Abyssopelagia - Reviews"
-categories: reflections
+categories: shelf
 excerpt: The Back Stories
 ---
 
