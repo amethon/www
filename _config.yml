@@ -78,3 +78,5 @@ collections:
   shelf:
     sort_by: title
     output: true
+
+google_analytics: G-X17BPMCDKJ
