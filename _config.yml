@@ -21,7 +21,7 @@
 title: amethon
 email: music@amethon.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Deep Learning Music Project
+  A Deep Learning Project
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amethon
@@ -52,6 +52,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - local
 
 minima:
   skin: launch
@@ -77,6 +78,3 @@ collections:
   shelf:
     sort_by: title
     output: true
-
-exclude:
-  - local
