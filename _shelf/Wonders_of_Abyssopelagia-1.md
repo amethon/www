@@ -5,7 +5,7 @@ categories: shelf
 excerpt: A Voyage of Discovery
 ---
 
-![Wonders of Abyssopelagia](/assets/shelf/Wonders_of_Abyssopelagia/Wonders of Abyssopelagia.png)
+![Wonders of Abyssopelagia](/assets/shelf/Wonders_of_Abyssopelagia/front_cover.png)
 ## Foreward
 
 As you embark on this journey to the depths of the ocean and into the heart of the human soul, I hope that you will find yourself as captivated and inspired as I was when I first read "Wonders of Abyssopelagia."
