@@ -75,6 +75,7 @@ collections:
   reflections:
     output: true
   shelf:
+    sort_by: title
     output: true
 
 exclude:
