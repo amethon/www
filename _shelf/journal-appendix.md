@@ -36,7 +36,7 @@ Visiting La Rochelle in 1873, you would have had the opportunity to enjoy a wide
 
 L’Exploration was a state-of-the-art research vessel that operated in La Rochelle in the late 19th century, setting sail from the bustling port city on various scientific expeditions. It was a small, ocean-going ship that was specifically designed for scientific research and exploration, and was equipped with a range of specialized facilities and technologies. These included fully-equipped laboratories for analyzing samples and conducting experiments, as well as comfortable living quarters for the crew and scientists to rest and relax during long voyages.
 
-L’Exploration was also equipped with a range of advanced scientific instruments and equipment, such as microscopes, spectroscopes, and other analytical tools, which were used to collect data and samples from the ocean. These instruments were mounted on the vessel's hull or mast, or were deployed using special equipment, such as remotely operated vehicles (ROVs) or submersibles. In addition to its scientific capabilities, the vessel was also equipped with the latest communication and navigation technologies, such as telegraphs and sextants, which allowed it to communicate with other ships and accurately chart its course across the ocean.
+L’Exploration was also equipped with a range of advanced scientific instruments and equipment, such as microscopes, spectroscopes, and other analytical tools, which were used to collect data and samples from the ocean. In addition to its scientific capabilities, the vessel was also equipped with the latest communication and navigation technologies, such as telegraphs and sextants, which allowed it to communicate with other ships and accurately chart its course across the ocean.
 
 The research vessel was commissioned by the French government in the early 1850s, and has been a fixture in the world of oceanic research ever since. Over the years, it has embarked on a number of voyages to distant and exotic locations, from the icy waters of the Arctic to the steamy rainforests of the Amazon.
 
@@ -52,7 +52,7 @@ The research voyage aboard L'Exploration was a once-in-a-lifetime opportunity fo
 
 The crew and scientists had spent months preparing for the voyage, gathering data and conducting research in order to understand the complexities of the ocean's ecosystems. They were eager to learn more about the unique creatures that inhabited the deep sea, and to discover new and exciting species that had never been seen before.
 
-The voyage was also an opportunity to test new scientific instruments and technologies that would allow the crew and scientists to gather more detailed and accurate data about the ocean's depths. They were equipped with a range of specialized equipment, including submersibles, remotely operated vehicles, and advanced sensors and cameras that would allow them to explore and study the ocean in unprecedented detail.
+The voyage was also an opportunity to test new scientific instruments and technologies that would allow the crew and scientists to gather more detailed and accurate data about the ocean's depths. They were equipped with a range of specialized equipment that would allow them to explore and study the ocean in unprecedented detail.
 
 Overall, the research voyage aboard L'Exploration was a groundbreaking and exciting opportunity for the crew and scientists to push the boundaries of scientific knowledge and to make new and important discoveries about the ocean and its ecosystems.
 
@@ -98,7 +98,7 @@ As the captain of the research vessel L'Exploration, Captain Pierre Dubois was a
 
 ##  First Mate: Jacques Rousseau
 
-acques Rousseau was a man of adventure and determination, with a rugged and handsome appearance that commanded respect from those around him. Standing at 6'2" with broad shoulders and a muscular build, Jacques was a formidable figure on the deck of any vessel. His tanned and weathered skin bore the marks of years spent at sea, with scars scattered across his body from various injuries and mishaps. But it was his piercing blue eyes and straight nose that truly set him apart, giving him a regal and dignified appearance.
+Jacques Rousseau was a man of adventure and determination, with a rugged and handsome appearance that commanded respect from those around him. Standing at 6'2" with broad shoulders and a muscular build, Jacques was a formidable figure on the deck of any vessel. His tanned and weathered skin bore the marks of years spent at sea, with scars scattered across his body from various injuries and mishaps. But it was his piercing blue eyes and straight nose that truly set him apart, giving him a regal and dignified appearance.
 
 Jacques's short, dark hair was always styled in a neat and tidy fashion, and he kept a closely trimmed beard outlining his strong jawline. He was impeccably dressed in a crisp, white shirt and navy blue pants, paired with a pair of well-worn boots that had seen him through many a rough voyage. His tattoos, etched onto his arms and chest, told the story of his time in the merchant navy, and he always wore a small gold ring on his left hand as a reminder of his beloved wife back home.
 

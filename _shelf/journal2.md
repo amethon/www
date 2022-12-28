@@ -98,7 +98,7 @@ Captain Dubois also thanked me for agreeing to join the expedition as an observe
 
 I am looking forward to setting sail and exploring the mysteries of Abyssopelagia. I have no doubt that we will encounter many challenges and dangers on this journey, but with the help of Captain Dubois and the determination of the crew, I am confident that we will overcome them and return with tales of wonder and discovery that will astound the world.
 
-I need to leave very soon in order to be ready for the expedition. Until next time,
+I need to leave very soon in order to be ready for the expedition. 
 
 Until next time,
 
@@ -197,9 +197,9 @@ During the evening meal, Jacques, the first mate, enthralled us with a delightfu
 
 However, before I could retire for the night, Dr. Pierre Dupont, the medical officer, requested a private conversation with me. He expressed his concern for the health and well-being of the crew during the long voyage ahead and the potential risks we may face. His words gave me pause as I had not considered the challenges that lay ahead. I assured him that I would do all in my power to ensure the safety and well-being of the crew.
 
-As I lay in my cabin, I am filled with a mixture of exhilaration and trepidation for the expedition to come. But I am unwavering in my ambition to face any challenges with courage and determination, and I have faith that together, we will achieve great things. Until next time, dear journal.
+As I lay in my cabin, I am filled with a mixture of exhilaration and trepidation for the expedition to come. But I am unwavering in my ambition to face any challenges with courage and determination, and I have faith that together, we will achieve great things. 
 
-Sincerely,
+Until next time,
 
 Jules Verne
 
@@ -208,7 +208,7 @@ Jules Verne
 
 Dear Journal,
 
-This morning, we set out on our journey with much excitement and anticipation. As the vessel sailed through the rolling waves, I was filled with a sense of freedom and infinite possibility. As I watched the land retreat behind us, I was overwhelmed with a sense of excitement and adventure. Our departure, however, was not without its difficulties. One of the engines was not functioning correctly and required repair, causing a delay in our departure. Additionally, the sea was rough as we navigated out of the harbor, making for a tumultuous start to our journey.
+This morning, we set out on our journey with much excitement and anticipation. As the vessel sailed through the rolling waves, I was filled with a sense of freedom and infinite possibility. As I watched the land retreat behind us, I was overwhelmed with a sense of excitement and adventure. Our departure, however, was not without its difficulties. One of the ship's systems was not functioning correctly and required repair, causing a delay in our departure. Additionally, the sea was rough as we navigated out of the harbor, making for a tumultuous start to our journey.
 
 Despite these challenges, the crew worked diligently to overcome them and we eventually set sail towards Abyssopelagia. As we navigated through the turbulent waters, I observed a strong sense of pride and solidarity among the crew as we worked together to overcome the obstacles before us.
 
@@ -273,6 +273,8 @@ Overall, the tour of the ship was a most illuminating experience, and I left wit
 As I stand on the deck of the ship, gazing out at the shimmering waters, I am struck by the power of the ocean. The waves crash against the hull, reminding me of the vastness of this body of water and the many mysteries it holds. I imagine all of the creatures that live in its depths, from the smallest microorganisms to the largest whales, and the many secrets that they keep hidden from the rest of the world.
 
 Despite the many dangers that the ocean poses, I cannot help but feel a sense of excitement and adventure as we sail further out to sea. I know that this journey will be filled with challenges and dangers, but I am ready to face them head on. I am determined to explore the unknown and to uncover the many secrets that the ocean holds.
+
+Until next time,
 
 Jules Verne
 
@@ -696,6 +698,8 @@ Jules Verne
 <hr>
 **August 24, 1873**
 
+Dear Journal,
+
 I have finally returned to Paris, and it feels strange to be back home after so many weeks at sea. The expedition to Abyssopelagia was a truly extraordinary and life-changing experience, and I am still trying to process all that I saw and felt during those months of exploration.
 
 As I contemplate my journey, I am consumed with a sense of admiration and curiosity at the enigmas and wonders of the deep sea. The creatures that live in are truly otherworldly, and I will never forget the haunting beauty of the jellyfish, the lanternfish, and the sunken wrecks.
@@ -713,6 +717,8 @@ Jules Verne
 
 <hr>
 **August 31, 1873**
+
+Dear Journal,
 
 I was overjoyed to receive a letter from Dr. Hernandez today, in which she expressed a desire to visit me in Paris and discuss the results of our expedition in more detail. It is always a pleasure to spend time with such a brilliant and fascinating woman, and I cannot wait to see her again and continue our discussions about the deep sea and its mysteries.
 
