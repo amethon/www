@@ -360,7 +360,7 @@ Jules Verne
 
 Dear Journal,
 
-Today was a day of contemplation as we journeyed back to port after our deep-sea journey to the mysterious Abyssopelagia. As I sat on the deck, gazing out at the vast expanse of the ocean and feeling the warmth of the sun on my face, I was overcome with a feeling of serenity and contentment.
+Today was a day of contemplation. As I sat on the deck, gazing out at the vast expanse of the ocean and feeling the warmth of the sun on my face, I was overcome with a feeling of serenity and contentment.
 
 Throughout the day, I was fortunate enough to converse with the crew and gain insight into their lives and experiences. First Mate Jacques regaled me with tales of his travels around the globe and the challenges and triumphs he had encountered. I too shared some of my own stories with the group, and was struck by the sense of community and connection we all shared.
 
