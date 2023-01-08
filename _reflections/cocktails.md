@@ -2,7 +2,7 @@
 layout: reflection
 title: "cocktails"
 categories: reflections
-excerpt: cocktailes inspired by abyssopelagia
+excerpt: cocktails inspired by abyssopelagia
 ---
 
 # Deep Sea Dive
