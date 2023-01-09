@@ -1,0 +1,30 @@
+---
+layout: default
+title: cocktails
+nav: /
+---
+
+<h1>Inspired Cocktails</h1>
+
+
+<!-- <ul>
+  {% for collection in site.collections %}
+    <div>
+      {{ collection.label }}
+      {% for item  in collection.docs %}
+      <div>
+        - {{ item.date }}
+      </div>
+    {% endfor %}
+    </div>
+  {% endfor %}
+</ul> -->
+
+<ul>
+  {% for cocktail in site.cocktails %}
+    <div>
+      <h2><a href="{{ cocktail.url  | relative_url}}">{{ cocktail.title }}</a></h2>
+      {{ cocktail.excerpt }}
+    </div>
+  {% endfor %}
+</ul> 

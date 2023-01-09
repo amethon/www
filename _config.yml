@@ -73,10 +73,16 @@ defaults:
 collections:
   albums:
     output: true
+    permalink: /:collection/:name
+  cocktails:
+    output: true
+    permalink: /:collection/:name
   reflections:
     output: true
+    permalink: /:collection/:name
   shelf:
-    sort_by: title
     output: true
+    permalink: /:collection/:name
+    sort_by: title
 
 google_analytics: G-X17BPMCDKJ
