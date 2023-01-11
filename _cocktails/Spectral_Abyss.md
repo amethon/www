@@ -3,10 +3,10 @@ layout: cocktail
 title: "Spectral Abyss"
 categories: cocktails
 excerpt: dive into the darkness, discover the unknown
-image: Spectral_Abyss.jpg
+image: Spectral_Abyss.jpeg
 ---
 
-![Spectral Abyss](/www/assets/cocktails/Spectral_Abyss.jpg)
+![Spectral Abyss](/www/assets/cocktails/Spectral_Abyss.jpeg)
 
 The Spectral Abyss Cocktail is a complex and intriguing blend of flavors and textures, designed to evoke the feeling and themes associated with the Spectral Abyss. The base of the cocktail is gin and mezcal, which brings dark and mysterious notes, and it is balanced with a touch of acidity from the lemon juice. The blackberry liqueur adds a touch of sweetness and berry flavor to the drink, while activated charcoal syrup provides an unexpected earthy and smoky element that gives the drink an otherworldly feel.
 

@@ -3,10 +3,10 @@ layout: cocktail
 title: "Deep Sea Dive"
 categories: cocktails
 excerpt: deep, dark depths of the abyss
-image: Deep_Sea_Dive.jpg
+image: Deep_Sea_Dive.jpeg
 ---
 
-![Deep Sea Dive](/www/assets/cocktails/Deep_Sea_Dive.jpg)
+![Deep Sea Dive](/www/assets/cocktails/Deep_Sea_Dive.jpeg)
 
 A mixture of dark rum, blue curacao, and lime juice, representing the deep, dark depths of the abyss and the exotic, shimmering life within it. To give it a touch of mystery and complexity, add a splash of absinthe and a sprinkle of sea salt. Serve it in a deep blue glass, with a slice of lime and a sea salt rim to complete the oceanic theme. Sip on this cocktail as you immerse yourself in the music of Abyssopelagia and let it transport you to the heart of the deep sea.
 
